@@ -7,5 +7,3 @@ Pseudo coding is a very important skill to have when developing and it makes eve
 
 - Pseudo Coding Structure and Standards. 
 - Markdown 
-
-
