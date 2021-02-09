@@ -7,3 +7,4 @@ Skills I will showcase:
 
 - Psuedo Coding Structure and Standards. 
 - Markdown 
+# Walking-My-Dog-Pseudo-Coding
